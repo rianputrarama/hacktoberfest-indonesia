@@ -31,6 +31,7 @@ body{
   height: 30px;
   width: 30px;
   border-radius: 50%;
+  animation-duration: 6s;
   border: 30px solid black;
   -webkit-animation: bounce-in-top 3s steps(3, end) both;
 	        animation: bounce-in-top 3s steps(3, end) both;
