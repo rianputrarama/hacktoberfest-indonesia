@@ -12,6 +12,7 @@ Pesantren TIK
 ### Hobi
 
 - game
+- fustal
 
 ### Bahasa Pemograman
 
