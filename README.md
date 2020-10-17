@@ -45,7 +45,7 @@ Berikut langkah-langkahnya secara singkat:
 5. Buat *pull request*
 
 1. Cari proyek open source.  
-*Kali ini, saya sebagai pengembang Android akan menggunakan* **[Material Tabs](https://github.com/neokree/MaterialTabs)** *sebagai contoh.*
+*Kali ini, saya sebagai pengembang Android akan menggunakan* **[awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)** *sebagai contoh.*
 2. Cari info tentang aturan kontribusi, atau hubungi developer yang terkait baik via email atau media sosial.
 3. Jika memang tidak tertera aturan kontribusi dan sang developer tidak merespon, anda bisa langsung melakukan fork proyek yang akan anda kontribusikan.
 4. Setelah selesai fork, maka repository akan masuk ke daftar repo milik anda.
