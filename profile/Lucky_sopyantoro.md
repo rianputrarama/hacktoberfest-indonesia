@@ -3,7 +3,7 @@
 
 ### Provisi & Kota
 
-Bandung, JawaBarat
+Bandung, JawaBarat, Indonesia
 
 ### Sekolah / Akademik
 
