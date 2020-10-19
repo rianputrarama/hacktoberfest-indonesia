@@ -1,4 +1,5 @@
 # Nama
+andri
 
 <img src="" width="200" height="200" align="center"/>
 
@@ -16,7 +17,7 @@ Provinsi , Kota
 
 ### Bahasa Pemograman 
 
-- PHP
+- Javascript
 - HTML
 
 ### Project
@@ -25,4 +26,4 @@ Provinsi , Kota
 
 ### Profile Link
 
-[Nama](https://github.com/username)
+[Nama](https://github.com/driandri)
